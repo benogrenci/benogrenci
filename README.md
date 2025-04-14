@@ -1,4 +1,8 @@
-## Hi there 👋
+### 💬 I Code In
+
+- 🐍 Python  
+- 💻 C#  
+- 🐘 PHP  
 
 <!--
 **benogrenci/benogrenci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
